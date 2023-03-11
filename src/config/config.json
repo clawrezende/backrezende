@@ -1,0 +1,13 @@
+{
+    "server": {
+        "port": 5000
+    },
+    "database": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "admin",
+        "database": "integrador",
+        "port": 3306
+    },
+    "secretKey": "admin1234"
+}
